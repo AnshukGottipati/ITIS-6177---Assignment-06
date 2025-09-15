@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "2781",
+      "title": "ITIS6177",
+      "author": "anshuk"
+    },
+    {
+      "id": "b7a6",
+      "title": "lets go",
+      "author": "wohoo"
+    },
+    {
+      "id": "669c",
+      "title": "lets go",
+      "author": "wohoo"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
